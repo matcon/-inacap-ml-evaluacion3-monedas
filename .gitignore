@@ -12,6 +12,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 *.bak
+scratch/
 
 # Sistema
 .DS_Store
