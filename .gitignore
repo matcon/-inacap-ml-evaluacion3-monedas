@@ -7,14 +7,26 @@ env/
 *.mp4
 dataset/*.mp4
 
-# Python / Jupyter
+# Python / Jupyter / Modelos pesados
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 *.bak
+*.keras
+*.zip
 scratch/
+
+# Archivos de referencia, borradores y utilitarios excluidos del repo
+1.ipynb
+Evaluacion_Razas_Bovinas_CNN.ipynb
+evaluacion_ML.ipynb
+e3_contreras_lagos_monedas.py
+capturar_desde_video.py
+README.md
+README_DATASET.md
+pruebas/IMG_*
+pruebas/originales/
 
 # Sistema
 .DS_Store
 Thumbs.db
-*.zip
